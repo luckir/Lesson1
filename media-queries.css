@@ -1,0 +1,303 @@
+@media screen and (max-width: 769px) {
+  #header {
+    max-width: 769px;
+    display: flex;
+    background: #222222;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  #header-nav {
+    max-width: 769px;
+  }
+  #logo {
+  }
+  #Searcc {
+    margin-right: 424px;
+  }
+
+  #block1 {
+    max-width: 769px;
+    height: 367px;
+    background: #f1e4e6;
+    display: flex;
+  }
+
+  #picture {
+    background-image: url(img/pictuer.png);
+    background-repeat: no-repeat;
+  }
+  #stick {
+    width: 20px;
+    height: 92px;
+  }
+  #tabl1 {
+    height: 162px;
+    width: 232px;
+  }
+  #tabl2 {
+    height: 162px;
+    width: 232px;
+    margin-left: 19px;
+  }
+  #tabl3 {
+    height: 162px;
+    width: 232px;
+    margin-left: 19px;
+  }
+
+  #table4 {
+    width: 734px;
+    height: 116px;
+  }
+  #phote1-block2 {
+    height: 162px;
+    width: 232px;
+  }
+
+  #information3-text4 {
+    height: 80px;
+    width: 232px;
+  }
+
+  #table2-block2 {
+    width: 232px;
+  }
+
+  #table2-bloc {
+    width: 232px;
+    height: 170px;
+  }
+  #Black-background {
+    display: flex;
+    justify-content: center;
+  }
+
+  #logotip1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 10px;
+  }
+  #logotip1-text1 {
+    margin-left: 80px;
+  }
+
+  #logotip-phote1 {
+    margin-left: 25%;
+  }
+  #logotip1-text2 {
+    margin-left: 40px;
+  }
+  #img-poisk {
+    width: 351px;
+    font-size: 8px;
+    margin: 0;
+  }
+  #poisk-text {
+    margin-left: 200px;
+  }
+  #input-btm {
+    margin-left: 300px;
+  }
+  #img-last {
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 10px;
+  }
+  #img-phote {
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+  }
+
+  #footer-icon {
+    margin-left: 50px;
+  }
+}
+/* -------------------------------------- */
+@media screen and (max-width: 602px) {
+  #header {
+    max-width: 375px;
+    display: flex;
+    background: black;
+    height: 74px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  #logo {
+  }
+
+  #header-nav {
+    max-width: 375px;
+  }
+
+  #Searcc {
+    margin-right: 200px;
+    padding-top: 7px;
+  }
+
+  #menu {
+    margin: 0;
+    padding: 0;
+    padding-top: 7px;
+  }
+  #user {
+    display: none;
+  }
+  #basket {
+    display: none;
+  }
+  #picture {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1157px) {
+  #header {
+    max-width: 1157px;
+    display: flex;
+    background: black;
+    height: 74px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  #Searcc {
+    margin-right: 600px;
+    padding-top: 7px;
+  }
+}
+
+@media screen and (max-width: 918px) {
+  #header {
+    max-width: 918px;
+    display: flex;
+    background: black;
+    height: 74px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  #Searcc {
+    margin-right: 400px;
+    padding-top: 7px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  #header {
+    max-width: 918px;
+    display: flex;
+    background: black;
+    height: 74px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  #Searcc {
+    margin-right: 300px;
+    padding-top: 7px;
+  }
+  #peacture {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 608px) {
+  #header {
+    max-width: 918px;
+    display: flex;
+    background: black;
+    height: 74px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  #Searcc {
+    margin-right: 200px;
+    padding-top: 7px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  #header {
+    max-width: 375px;
+    display: flex;
+    background: black;
+    height: 74px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  #logo {
+  }
+
+  #header-nav {
+    max-width: 375px;
+  }
+
+  #Searcc {
+    margin-right: 50px;
+    padding-top: 7px;
+  }
+
+  #menu {
+    margin: 0;
+    padding: 0;
+    padding-top: 7px;
+  }
+  #user {
+    display: none;
+  }
+  #basket {
+    display: none;
+  }
+  #picture {
+    display: none;
+  }
+  #phote-table {
+    display: flex;
+    flex-direction: column;
+  }
+  #tabl1 {
+    margin-top: 62px;
+  }
+  #tabl2 {
+    margin-top: 32px;
+    margin-left: 0;
+  }
+  #tabl3 {
+    margin-top: 32px;
+    margin-left: 0;
+  }
+
+  .phote1 {
+    margin-top: none;
+    margin-left: 16px;
+  }
+
+  #block-iiiii {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #block-lll {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #input-btm {
+    margin-left: 150px;
+  }
+
+  #table4 {
+    width: 343px;
+    height: 111px;
+    margin-top: none;
+  }
+}
